@@ -1,0 +1,18 @@
+{
+"first_name":"Tammy",
+"last_name": "Taffeta",
+"display_handle":"TripleT",
+"posts":[
+  {
+    "post_one":"Today I wore a Tutu. I've decided that from now on my life will consist mainly of items starting with the letter T"
+  },
+  {
+    "post_two": "If I lived in an Elmo episode, my episode would be brought to you by the letter T"
+  },
+  {
+    "post_three":"Trousers, tee shirt, tennis shoes. If it doesn't start with T, it's not for me"
+  }
+],
+"age": "22",
+"active": "false",
+}
